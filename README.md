@@ -23,4 +23,4 @@ After preprocessing the datasets I decided to keep these columns in order to pro
 * cosine_similarity
 
 ## Imprtant Note:
-Instead of the two systems implemented, generally a hybrid of the two systems in generally implemented.
+Instead of the two systems implemented here in code, generally a hybrid of the two systems used.
