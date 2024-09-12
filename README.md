@@ -23,4 +23,5 @@ After preprocessing the datasets I decided to keep these columns in order to pro
 * cosine_similarity
 
 ## Imprtant Note:
-Instead of the two systems implemented here in code, generally a hybrid of the two systems is used.
+1. Instead of the two systems implemented here in code, generally a hybrid of the two systems is used.
+2. In case the .ipynb file shows an error to display the code you can paste the github repository link on this [website](https://nbviewer.org/).
